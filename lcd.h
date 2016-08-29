@@ -65,5 +65,5 @@ void LCD_Data(uint8_t data);
 //Send data to LCD, the voltage on pin CD will decide it's a command or a data.
 void LCD_Byte(uint8_t data);
 
-//Delay about i*400 MCLK cycle.
+//Delay about i*400 MCLK cycles.
 void LCD_Delay(uint8_t i);
