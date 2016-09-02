@@ -1,6 +1,7 @@
 
 /*
  * This is a UART Library.
+ * 9600 8 N 1
  */
 
 /*
